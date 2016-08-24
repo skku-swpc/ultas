@@ -1,7 +1,7 @@
 ## Explain about sfotware
 	This software is for thermal-aware user level scheduler.
 	Run the SPECCPU 2006 benchmark with determined CPU numbers.
-	Check CPU temperature and migrate benchmark thread on highest temperature core to lowest temperature core.
+	Check CPU temperature and a migrate benchmark thread on highest temperature core to lowest temperature core.
 
 ## How to build
 	Compile specshell with bench_launcher.
