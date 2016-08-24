@@ -8,7 +8,5 @@
 	1. Put SPEC CPU benchmark binary files under specset folder.
 	2. Run the compiled excutable file.
 	3. Then, type the command to specshell.
-
-	"'
-	run <benchmark> <cpu#> -i <input data>
-	"'
+		run <benchmark> <cpu#> -i <input data>
+	
